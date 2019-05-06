@@ -1,2 +1,2 @@
 # Police Tools
-Police Tools is Lua Script for GTA San Andreas Multiplayer which using as Police Fraction Helper
+_Русский язык недоступен в данном репозитории. Русская версия информации на сайте [скрипта](http://policetools.ru)._
