@@ -1,1 +1,2 @@
 # Police Tools Source Files
+Here you can find source files of Police Tools. Images, sounds, documents are here, in this directory. Author reserves the right to limit commercial using files from this directory if you break some simple rules of our team. Please, don't use our sources in your projects. We respect people who respect our work. Really, it's very difficult and long to drawing pictures and recording sounds. Be people.
