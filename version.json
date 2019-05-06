@@ -1,8 +1,8 @@
 {
-  "version":"0.0.0.5",
-  "number":5,
-  "date":"31 марта 2019",
-  "link":"https://github.com/Pakulichev/PoliceTools/blob/master/PoliceToolsByGarson.luac?raw=true",
-  "text":"- Исправлены недочёты, связанные с новым ImGUI",
+  "version":"0.0.0.6",
+  "number":6,
+  "date":"6 мая 2019",
+  "link":"https://github.com/Pakulichev/Police_Tools/blob/master/PoliceToolsByGarson.luac?raw=true",
+  "text":"[Pre-Release] Переезд в новый репозиторий!",
   "libs":"imgui.lua,faIcons.lua,rkeys.lua,imgui_addons.lua,effil.lua,requests.lua"
 }
